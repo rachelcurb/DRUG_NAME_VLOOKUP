@@ -2,7 +2,7 @@
 
 ## Welcome! ##
 
-The purpose of this page is to demonstrate my capabilites in Excel, specifically in using the VLOOKUP function. Because using actual patient information is a HIPAA violation, data used in the Excel workbook was generated from `mostly.ai`.
+The purpose of this page is to quickly demonstrate my capabilites in Excel, specifically in using the VLOOKUP function. Because using actual patient information is a HIPAA violation, data used in the Excel workbook was generated from `mostly.ai`.
 
 *The raw Excel and .csv files as well as the end result can be downloaded and viewed on this page.*
 
