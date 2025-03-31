@@ -4,7 +4,7 @@
 
 The purpose of this page is to quickly demonstrate my capabilites in Excel, specifically in using the VLOOKUP function. Because using actual patient information is a HIPAA violation, data used in the Excel workbook was generated from `mostly.ai`.
 
-*The raw Excel and .csv files as well as the end result can be downloaded and viewed on this page.*
+*The raw Excel and .csv files as well as the end result can be downloaded and viewed by using the links on this page.*
 
 ### Prompt: ###
 A pharmacy obtained a list of names of patients who were prescibed pain management drugs but only had their drug IDs. The pharmacy needs to extract the name of the drug prescribed and its price by only using information from the table below:
